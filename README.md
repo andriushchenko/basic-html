@@ -1,0 +1,1 @@
+Create html page as similar to the picture practice.png as possible, use only html tags an attributes.
